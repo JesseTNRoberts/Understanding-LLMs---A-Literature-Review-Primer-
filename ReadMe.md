@@ -1,4 +1,7 @@
-## A List of Papers to Help with Understanding LLMs
+## A List of Papers to Help Understand LLMs
+
+These papers are important to the understanding of the current state of NLP and LLM research. 
+
 
 ### Foundations of the Transformer Architecture
 
